@@ -12,6 +12,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32102#Barclay-of-the-Guides
 gutenberg_issued: '2010-04-23'
 gutenberg_type: Text
 identifiers:
